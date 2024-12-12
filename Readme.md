@@ -34,4 +34,6 @@
 
 
  ## Git Saviour Commands ##
-  
+  -> git reset --soft <commit-hash>
+  -> git rest <commit-hash>
+  -> git reset --hard <commit-hash>
