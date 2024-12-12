@@ -1,5 +1,5 @@
-## Hello Git
-
+## Welcome Git
+ This is coming from "test2".
 ## Branching & Merging ##
 -> Branching in git allow you to create different versions of your project
 -> For creating new Branch-
