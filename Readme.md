@@ -1,5 +1,7 @@
+
 ## Hello Everyone, Welcome to Git Guide!
 - Yo, Piyush here!
+
 ## Branching & Merging ##
 -> Branching in git allow you to create different versions of your project
 -> For creating new Branch-
