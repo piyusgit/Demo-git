@@ -31,3 +31,7 @@
           6. Merge the changes
           7. Pull the merged changes into your local main branch 
           8. Repeat from step 2
+
+
+ ## Git Saviour Commands ##
+  
